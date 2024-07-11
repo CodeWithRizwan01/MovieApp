@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MovieApi</string>
+    <string name="search">Search</string>
+    <string name="watch_your_favourite_movies_here">Watch Your favourite movies here...</string>
+    <string name="hi_rizwan">Hi, Rizwan</string>
+    <string name="most_watched_movies">Most Watched Movies</string>
+</resources>

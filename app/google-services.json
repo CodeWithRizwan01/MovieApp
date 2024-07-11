@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "918275655245",
+    "project_id": "movieapi-b4e87",
+    "storage_bucket": "movieapi-b4e87.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:918275655245:android:89eb15c624145de843be04",
+        "android_client_info": {
+          "package_name": "com.example.movieapi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWlBzPRUBrE8g9osmCPebaeFRcF05GLGE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
